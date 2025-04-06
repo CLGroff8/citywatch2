@@ -1,0 +1,153 @@
+body {
+    font-family: "Italiana", serif;
+    color: azure;
+    margin: 0;
+    padding: 0;
+    background-color: lightslategray;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: slategray;
+    color: white;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.icons {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+    gap: 20px;
+    font-size: 30px;
+    color: #00004d;
+    background-color: slategray;
+    padding-top: 40px;
+}
+.logo {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.name {
+    font-size: 98px;
+    font-weight: bold;
+    padding-top: 60px;
+}
+
+.navigation {
+    display: flex;
+    background-color: slategray;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 32px;
+    word-spacing: 110px;
+    padding-left: 50px;
+    
+}
+
+.divider1 {
+    display: flex;
+    background-color: #0f0d3e;
+    padding: 12px;
+}
+
+.order {
+    display: flex;
+    word-spacing: 5px;
+    margin-left: 360px;
+    
+}
+
+.featured {
+    display: flex;
+    background-color: #cfd6da;
+    padding-top: 50px;
+    padding-bottom: 175px;
+}
+
+.menu {
+    background-color: #cfd6da;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    margin-left: 220px;
+    margin-right:220px;
+    margin-bottom: 55px;
+}
+
+.coffee {
+    background-color: #cfd6da;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-bottom: 55px;
+}
+
+.wholesale {
+    background-color: #cfd6da ;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-bottom: 55px;
+}
+
+.divider2 {
+    display: flex;
+    background-color: #0f0d3e;
+    padding: 12px;
+}
+
+.footer {
+    background-color: slategray;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: top 10px;px;
+    padding-bottom: 220px;
+}
+.footimage {
+    padding-top: 50px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.info1 {
+    padding-top: 10px;
+    font-size: 35px;
+    margin-left: 120px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 68px;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 55px;
+    margin-top: 30px;
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 38px;
+}
+
+p {
+    text-align: center;
+    font-size: 28px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
